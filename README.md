@@ -1,12 +1,11 @@
 # OpenWay · Freedom to move
 
-![La parola OpenWay ritagliata sulla mappa di Pisa](assets/og-cover.png)
+![La parola OpenWay ritagliata sulla mappa di Pisa](assets/01-apertura.png)
 
 OpenWay è un prototipo per orientarsi in sedia a rotelle nella zona universitaria di Pisa, nato all'Hacktoberfest del GDG Pisa (ottobre 2026), dove si è classificato secondo come miglior progetto open source. Calcola un percorso, lo confronta con i dati di OpenStreetMap e con le segnalazioni degli utenti, e dice in chiaro cosa si sa, cosa è solo probabile e cosa manca. Non definisce mai un percorso «accessibile» o «sicuro».
 
 - **Landing page:** https://gixrda.github.io/openway/
 - **Codice dell'app e della landing:** https://github.com/gixrda/openway
-- **Bozza del post LinkedIn:** [POST_LINKEDIN.md](POST_LINKEDIN.md)
 
 Questo repository raccoglie immagini e testi per presentare il progetto. Il codice vive nel repository `openway`.
 
@@ -30,9 +29,7 @@ Questo repository raccoglie immagini e testi per presentare il progetto. Il codi
 
 ## The Living Line
 
-<img src="assets/living-line.gif" alt="Una linea blu percorre via Roma a Pisa, si apre su due strade vicine e arriva a destinazione" width="336">
-
-La linea della hero percorre la geometria reale del percorso. A un incrocio si aprono per un attimo le strade vicine, prese da OpenStreetMap, poi la linea arriva a destinazione e ricomincia. Le diramazioni sono solo animazione e la pagina lo dice. Se tocchi la mappa l'animazione si ferma; con «riduci movimento» attivo il percorso resta fermo.
+La linea della hero, visibile sulla [landing](https://gixrda.github.io/openway/), percorre la geometria reale del percorso. A un incrocio si aprono per un attimo le strade vicine, prese da OpenStreetMap, poi la linea arriva a destinazione e ricomincia. Le diramazioni sono solo animazione e la pagina lo dice. Se tocchi la mappa l'animazione si ferma; con «riduci movimento» attivo il percorso resta fermo.
 
 ## Come è fatta
 
