@@ -2,13 +2,13 @@
 
 ![La parola OpenWay ritagliata sulla mappa di Pisa](assets/og-cover.png)
 
-OpenWay è un prototipo per orientarsi in sedia a rotelle nella zona universitaria di Pisa. Calcola un percorso, lo confronta con i dati di OpenStreetMap e con le segnalazioni degli utenti, e dice in chiaro cosa si sa, cosa è solo probabile e cosa manca. Non definisce mai un percorso «accessibile» o «sicuro».
+OpenWay è un prototipo per orientarsi in sedia a rotelle nella zona universitaria di Pisa, nato all'Hacktoberfest del GDG Pisa (ottobre 2026), dove si è classificato secondo come miglior progetto open source. Calcola un percorso, lo confronta con i dati di OpenStreetMap e con le segnalazioni degli utenti, e dice in chiaro cosa si sa, cosa è solo probabile e cosa manca. Non definisce mai un percorso «accessibile» o «sicuro».
 
-- **Landing page:** https://gixrda.github.io/accessgo/
-- **Codice dell'app e della landing:** https://github.com/gixrda/accessgo
+- **Landing page:** https://gixrda.github.io/openway/
+- **Codice dell'app e della landing:** https://github.com/gixrda/openway
 - **Bozza del post LinkedIn:** [POST_LINKEDIN.md](POST_LINKEDIN.md)
 
-Questo repository raccoglie immagini e testi per presentare il progetto. Il codice vive nel repository `accessgo`.
+Questo repository raccoglie immagini e testi per presentare il progetto. Il codice vive nel repository `openway`.
 
 ## La landing
 
@@ -53,7 +53,7 @@ La landing pubblicata su GitHub Pages è statica: i percorsi della demo sono reg
 
 ## Sicurezza
 
-Le chiavi restano sul server e non sono nel repository; il sito pubblicato ha una Content Security Policy e parla solo con le tile di OpenStreetMap e con Nominatim. Dettagli e segnalazioni di vulnerabilità: [SECURITY.md del progetto](https://github.com/gixrda/accessgo/blob/main/SECURITY.md).
+Le chiavi restano sul server e non sono nel repository; il sito pubblicato ha una Content Security Policy e parla solo con le tile di OpenStreetMap e con Nominatim. Dettagli e segnalazioni di vulnerabilità: [SECURITY.md del progetto](https://github.com/gixrda/openway/blob/main/SECURITY.md).
 
 ## Crediti
 
